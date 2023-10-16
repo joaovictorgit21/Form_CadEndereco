@@ -1,22 +1,22 @@
-# Cadastro de Endereço
+# 🏠 Cadastro de Endereço
 
-## Descrição
+## 📃 Descrição
 
 Projeto para cadastro de endereço utilizando uma API chamada ViaCEP com um page layout do bootstrap.
 
-## Funcionalidade
+## 🛠 Funcionalidade
 
 Ao colocar um CEP válido, a aplicação preenche automaticamente os campos de "Rua, Bairro, Cidade e Estado".
 
-## Tecnologias Utilizados
+## 💻 Tecnologias Utilizados
 
-| Tecnologias | Funcionalidade|
+| Tecnologias | 🛠 Funcionalidade|
 |-------------|---------------|
-| HTML | Marcação |
-| CSS | Estilização |
-| Javascript | Script |
-| ViaCEP | API |
-| Bootstrap | Framework |
+| 📄 HTML | Marcação |
+| 🎨 CSS | Estilização |
+| 💻 Javascript | Script |
+| 🤖 ViaCEP | API |
+| 🖌 Bootstrap | Framework |
 
 ## Métodos
 | Métodos Javascript | Funcionalidade |
