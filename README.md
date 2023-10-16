@@ -11,6 +11,7 @@ Ao colocar um CEP válido, a aplicação preenche automaticamente os campos de "
 ## Tecnologias Utilizados
 
 | Tecnologias | Funcionalidade|
+|-------------|---------------|
 | HTML | Marcação |
 | CSS | Estilização |
 | Javascript | Script |
@@ -19,6 +20,7 @@ Ao colocar um CEP válido, a aplicação preenche automaticamente os campos de "
 
 ## Métodos
 | Métodos Javascript | Funcionalidade |
+|--------------------|----------------|
 | hasOwnProperty | é um método em JavaScript usado para verificar se um objeto possui uma propriedade específica.|
 | 'use strict' |Modo mais restrito de execução do código.|
 | Async |	Utilizada para criar funções capazes de aguardar operações assíncronas com a palavra-chave "await".|
